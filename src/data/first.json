@@ -1,0 +1,297 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "1)..........are basic constituents of matter.",
+        "correct": " atoms",
+        "incorrect": ["molecules", "elements Monet", "compounds"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "2) experiments that can't be explained by classical physics.............",
+        "correct": "all of them",
+        "incorrect": ["Black body radiation", " photoelectric effect", " discrete atomic spectra"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "3).................discover the electron and measures (me/e)  ",
+        "correct": "Thomson",
+        "incorrect": ["Faraday", " Max blank", 
+        "Newton"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "4)........... is a distinct, present in all materials",
+        "correct": "electron",
+        "incorrect": [
+            "atom",
+            "ion",
+            "molecules"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "question": "5) light is.......... waves ",
+        "correct": "electromagnetic",
+        "incorrect": ["electric", "magnetic", " non of them"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "6) Newtonation mechanics explained............ Behaviour of matter",
+        "correct": "Microscopic",
+        "incorrect": [" Blackbody radiation", "Microscopic and Blackbody radiation  ", "Macroscopic"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "7).......experimentally observes electrons as particles with charge & mass",
+        "correct": "Thomson",
+        "incorrect": ["Faraday", "Thomson and Faraday ", "Newton"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "8)....... found that results are independent of (1) cathode material (2) residual gas composition.",
+        "correct": "Thomson",
+        "incorrect": ["Faraday", "Thomson and Faraday ", "Newton"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "9)...... Had shown using electricity that amount of electric current proportional to amounts of some substances could could be liberated in an electrolytic cell.",
+        "correct": "Faraday",
+        "incorrect": ["Newton", "Einstein", " Max blank"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "10)The wave function of a partical in a box is given by..............",
+        "correct": "√(2/L)sin(nπx/L)",
+        "incorrect": ["√(2/L)sin(nx/L)", "√(2/L)sin(x/L)", "√(2/L)sin(πx/L)"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "11)Rutherford in his atomic model could not explain the behavior of which of the following? ",
+        "correct": "electrons",
+        "incorrect": ["protons",
+         "neutrons", 
+         " neutrino"]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "12)The most intense of wavelengths that result from light emitted by a sample of excited hydrogen is at ......",
+        "correct": "656nm",
+        "incorrect": ["660nm",
+         "670nm"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "13)Orbits closer to the nucleus are …………. in energy.",
+        "correct": "lower",
+        "incorrect": ["higher",
+         "constant"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "14)Which of the following is not a characteristic of wave function?",
+        "correct": "physically significant",
+        "incorrect": [
+            "continuous",
+         "single valued","differentiable"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "15)The wavelength of the matter waves is independent of:",
+        "correct": "charge",
+        "incorrect": [
+            "velocity",
+         "mass","momentum"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "16) The potential of free particle is ............",
+        "correct": "zero",
+        "incorrect": [
+            "minimum",
+         "maximum","infinite"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "17) The wave function of box of particle is given by...........",
+        "correct": "A sin(kx) + B cos(kx)",
+        "incorrect": [
+            "B coskx ",
+         " A sinkx","A sinkx _ B coskx"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "18)In One dimension particle moves.........",
+        "correct": "x along x axis ",
+        "incorrect": [
+            " x-y-z  ",
+         " x-y plane"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "19) the schrodinger’s equation is.......",
+        "correct": " -h2/2m d2/dx2 ψ(x)+ v(x) ψ (x)= E ψ (x) ",
+        "incorrect": [
+            "ψ (x)= a ψ (x)  ",
+         " (H'P)=0","none"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "20) When electrons move from a lower energy level to a higher energy level, energy is........",
+        "correct": "absorbed",
+        "incorrect": [
+            "emitted",
+         "  both emitted and absorbed"," none of the above"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "21)The Quantum Mechanical Model of the atom was proposed by:",
+        "correct": "Erwin Schrodinger",
+        "incorrect": [
+            " Louis de Broglie",
+         "  Neil Bohr","  Werner Heisenberg"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "22)The intensity of radiation is a measure of the energy emitted per  unit.........",
+        "correct": "volume",
+        "incorrect": [
+            "all of above",
+         "kinetic energy","area"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "23) Rydberg constant equal ………..",
+        "correct": " 1.097 × 10⁷m-1",
+        "incorrect": [
+            "1.097 × 10¹⁹ c/kg ",
+         " 1.3807 × 10–²⁹J/K"," 6.626 × 10–³⁴ J"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "24)......... Prove that ( p=h\/λ) so (k=2π\/λ)",
+        "correct": "  de Broglie",
+        "incorrect": [
+            " Einstein",
+         " Newton"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "25)The energy of particle in a infinite potential box is .........",
+        "correct": "  Inversely proportional to square of length of box",
+        "incorrect": [
+            " proportional to length of box ",
+         " Inversely proportional to length of box",
+         "Non of these"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "26-.....said that it would also be hard to specify the exact position of a particle that exhibits wavelike behavior ",
+        "correct": "  Heisenberg",
+        "incorrect": [
+            " Blank ",
+         " Newton",
+         "Bohr"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "27)If the is the wave function , the probability density function is given by ……………..",
+        "correct": "  ׀Ψ²׀ ",
+        "incorrect": [
+            " ׀Ψ׀ ",
+         " ׀Ψ³׀",
+         "׀Ψ⁴׀"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "28)Wave function Ψ of a particle is",
+        "correct": " a complex quantity",
+        "incorrect": [
+            "a real quantity",
+            " an imaginary quantity",
+            "none of these"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "29)In the blackbody radiation, which is electromagnetic radiation whose wavelength and colour that depends on....... of the object",
+        "correct": "Temperature",
+        "incorrect": [
+            "viscosity",
+            " velocity",
+            "Time"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "30) The energy of a photon is........to the light frequency",
+        "correct": "Directly proportional",
+        "incorrect": [
+            " inversly proportional ",
+            "not of them."
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "31)The energy in excess of the classical minimum, is known  as...................",
+        "correct": " Zero point energy",
+        "incorrect": [
+            " Kinetic energy",
+            " Potential energy"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "32) Planck's constant has unit of",
+        "correct": "J.S",
+        "incorrect": [
+            " S",
+            " J/S",
+            " J"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "33) Objects at high temperature emit a continuous spectrum of .. ",
+        "correct": "Electromagnetic radiation ",
+        "incorrect": [
+            " Magnetic radiation Objects",
+            " Electrical radiation ",
+            " Thermal radiation"
+        
+         ]
+    }
+   
+]

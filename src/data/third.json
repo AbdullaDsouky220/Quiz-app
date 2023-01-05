@@ -1,0 +1,320 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "67) ...........began wonder could particles exhibit the properties of waves",
+        "correct": "   louis de Broglie",
+        "incorrect": [" Ruther ford. "
+        , "Rydberg"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "68-For a box with infinitely hard walls , the potential is maximum at",
+        "correct": "L",
+        "incorrect": ["2L", "L/2","3L"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "69-The walls of a particle in a box are supposed to be",
+        "correct": "infinitely hard and infinitely large",
+        "incorrect": ["small but infinitely hard", "infinitely large but soft", 
+        "soft and small "]
+    },
+    {
+        "difficulty": "easy",
+        "question": "70-Because plank's constant is a very small number , the Heisenberg uncertainty principle is important only for particles with ......",
+        "correct": "High masses ",
+        "incorrect": [
+            " moderate masses",
+            " High and moderate masses ",
+            "very low masses"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "question": "71-Rutherford's model of the atom",
+        "correct": "All of Them ",
+        "incorrect": [" Does not yield discrete emission lines ",
+         " Does not explain the Rydberg formula"," Is not stable relative to collapse of electron into nucleus"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "72-Classical mechanical model of atomic structure Coulomb attraction plays the role of .......",
+        "correct": "gravity",
+        "incorrect": [" mass ",
+         "Conductivity","Capacity"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "73-According to the Heisenberg Uncertainty Principle,Because a wave is a disturbance that travels in space, it has..........position",
+        "correct": "no fixed",
+        "incorrect": [
+            "the same",
+         "a and b","fixed"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "74-The electrons can oscillate (& radiate) equally well at.....Frequency ",
+        "correct": "any",
+        "incorrect": [ 
+        "low", 
+        "medium",
+        "high"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "(75) The concept of matter wave was suggested by_____",
+        "correct": "de Broglie",
+        "incorrect": ["Heisenberg", "Schrodinger","Laplace"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "(76) The intensity of the diffraction pattern is proportional to ______ of the wave function ",
+        "correct": "square",
+        "incorrect": ["forth power",
+         "cube", 
+        " sixth power"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "(77) The function representing matter waves must be _______",
+        "correct": " complex ",
+        "incorrect": ["real",
+         "zero", 
+         " infinity"]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(78) The total probability of finding the particle in space must be __________",
+        "correct": "unity ",
+        "incorrect": ["zero",
+         "infinity","double"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(79) The normalized wave function must have ________ norm",
+        "correct": "finite",
+        "incorrect": ["zero",
+         "unity","complex"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(80) The Non-normalized wave function  must have ________ norm",
+        "correct": "infinite",
+        "incorrect": [
+            "zero",
+         "finite","complex"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(81) For normalized wave function ψ→0 as r→___ ",
+        "correct": "α",
+        "incorrect": [
+            " 0 ",
+         "1","-1"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(82) The square of the magnitude of the wave function is called_________",
+        "correct": "  probability densit",
+        "incorrect": [
+            "  current density",
+         "zero density ","volume density"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(83) The operator ∇ is called _______ operator ",
+        "correct": " Laplacian",
+        "incorrect": [
+            "Hamiltonian ",
+         "  IPoisson"," vector"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "(84) _________ principle states that the actual path taken by the light ray is one  which minimizes the integral",
+        "correct": " Maupertuis ",
+        "incorrect": [
+            "Heisenberg",
+         " Hamilton’s"," Fermat’s"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "85-Quantum mechanics deals with _____ subject?",
+        "correct": "Physics",
+        "incorrect": [
+            "Mechanics",
+         "Mechanics","Electronics"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "86-Schrodinger equation is a part of ____ law? ",
+        "correct": " Newtons",
+        "incorrect": [
+            " Charl’s",
+         " Ohms"," None of the above"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "87-Classical mechanics defines ____? ",
+        "correct": "Break downs",
+        "incorrect": [
+            " Force",
+         "   All the above"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "88-Which of the following scientist discovered matrix based mechanism of Schrodinger equation? ",
+        "correct": "Werner Heisenberg",
+        "incorrect": [
+            " Richard F",
+         " Paul Dirac","None of the above"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "89-Schrodinger wave equation also help in finding out the ____? ",
+        "correct": "Quantum number",
+        "incorrect": [
+            "Prime number",
+         "  Even number"," Odd number "
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "90-A periodic wave has _____ equilibrium positions?",
+        "correct": " Zero",
+        "incorrect": [
+            " Maximum",
+         " Minimum","Infinite"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "91-____ is the particles to and fro motion about a mean position? ",
+        "correct": "   Oscillatory motion",
+        "incorrect": [
+            " Damping",
+         " Overdamping",
+         " Clipping"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "92-Kinetic energy in Hamiltonian operator (H=T+V) is represented as___?",
+        "correct": " T",
+        "incorrect": [
+            " V ",
+         "H",
+         "S"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "93-Which of the following are the disadvantages of Schrodinger wave equation? ",
+        "correct": "  Complicate in understanding physical model of electrons as waves",
+        "incorrect": [
+            " Aperiodic signal",
+         "Newtons third law",
+         "All the above"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "94). A stationary type of state is a ____ state?",
+        "correct": " Quantum",
+        "incorrect": [
+            "Exponential",
+            " Linear ",
+            "All the above "
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "95-Force is expressed in terms of ___?",
+        "correct": " Newtons",
+        "incorrect": [
+            " Joules",
+            " Seconds",
+            "Meters"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "96-A periodic wave has _____ restoring force? ",
+        "correct": "Zero",
+        "incorrect": [
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "97-A Schrodinger equation governs ____ form of quantum mechanics? ",
+        "correct": "  Wave",
+        "incorrect": [
+            "Air",
+            "Noise","All the above "
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "98-A periodic wave is _____ form?",
+        "correct": " Sinusoidal",
+        "incorrect": [
+            " Square",
+            " Rectangle ",
+            "  All the above"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": " 99-Potential energy of a Schrodinger equation is _____?",
+        "correct": "Additive",
+        "incorrect": [
+            " Subtractive",
+            " Multiplex ",
+            " All the above"
+        
+         ]
+    }
+   ,
+    {
+        "difficulty": "hard",
+        "question": " 100-Which of the following scientist discovered matrix based mechanism of Schrodinger equation?",
+        "correct": " Werner Heisenberg",
+        "incorrect": [
+            "  Richard F",
+            " Paul Dirac",
+            " None of the above "
+        
+         ]
+    }
+   
+]

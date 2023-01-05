@@ -1,0 +1,303 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "34) Linear motion is......",
+        "correct": "  Angular Momentum",
+        "incorrect": [" Angular Velocity "
+        , "Volume", "Velocity"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "35) The energy spacing ............ as the box size decreases",
+        "correct": "Decrease",
+        "incorrect": ["Increase", ")still the same"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "36-schrodinger equation is a",
+        "correct": "2nd order differential equation.",
+        "incorrect": ["1st order differential equation. ", " none of these", 
+        "both 1nd & 2nd order differential"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "37)Photoelectric effect was explained by",
+        "correct": "Einstein",
+        "incorrect": [
+            "Faraday",
+            "Plank",
+            "Hertz"
+        ]
+    },
+    {
+        "difficulty": "medium",
+        "question": "38- According to quantum mechanics what is the true for free particle? ",
+        "correct": "Vparticle = Vwave",
+        "incorrect": ["Vparticle < Vwave",
+         "Vwave > Vparticle"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "39)The mass of a moving photon is",
+        "correct": "hv/c2",
+        "incorrect": [" hv/c ", "hv","zero"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "40)The dual nature of light exhibited by",
+        "correct": "diffraction and photoelectric effect",
+        "incorrect": ["diffraction and reflection.", ")refraction and interference photoelectric effect"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "41)Wave picture of light failed to explain.",
+        "correct": "the photoelectric effect",
+        "incorrect": ["polarization of light", "diffraction of light", "None of these"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "42)The relationship between energy of a photon and its wavelength",
+        "correct": "Energy is inversely proportional to wavelength",
+        "incorrect": ["Energy is directly proportional to wavelength", "Energy is independent of wavelength", "None of the above"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "43)Light of wavelength 4000 Å is incident on a sodium surface for which the threshold wavelength of photo-electrons is 5420 Å. The work function of sodium is",
+        "correct": "2.29 eV",
+        "incorrect": ["5 eV",
+         "3 eV", 
+        "0.57 eV"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "44)If the wavelength of the light is increased, then the energy of the photon will:",
+        "correct": "Decrease",
+        "incorrect": ["Increase",
+         "Remain unchanged", 
+         " None of these"]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "45)Which phenomena show the particle nature of light?",
+        "correct": "Photoelectric effect",
+        "incorrect": ["Diffraction",
+         "Interference","Polarization"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "46)Which experiment proved the particle nature of light?",
+        "correct": "Compton effect",
+        "incorrect": ["Interference",
+         "Diffraction","Polarisation"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "47)Which of the following can be concluded from the photo-electric effect?",
+        "correct": "particle nature of light",
+        "incorrect": [
+            "wave nature of light",
+         "interference of light","diffraction of light"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "48-What is the main point of the de Broglie equation?",
+        "correct": "matter has wave-like properties",
+        "incorrect": [
+            "the position of light cannot be precisely determined",
+         "matter only behaves like a particle","Einstein's theory of relativity was incorrect"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "49-Which of the following is not a characteristic of wave function?",
+        "correct": "Physically Significant",
+        "incorrect": [
+            " Single valued",
+         "Differentiable","Continuous"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "50-The energy of a particle in a infinite potential box is",
+        "correct": " Inversely proportional to Square of length of box",
+        "incorrect": [
+            "Proportional to length of box ",
+         "  Inversely proportional to length of box"," None of these"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "51-The walls of a particle in a box are supposed to be",
+        "correct": " Infinitely hard and infinitely large ",
+        "incorrect": [
+            "Infinitely large but soft ",
+         "  Soft and Small"," Small but infinitely hard"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "52-Choose the wrong statement about the spin of an electron, according to quantum mechanics: ",
+        "correct": " Spin is the rotation of an electron about its own axis.",
+        "incorrect": [
+            "Value of the spin quantum number of electrons must not be 1. ",
+         "+1/2 value of spin quantum number represents up spin","It is related to intrinsic angular momentum"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "53-Assuming the velocity to be the same, which particle is having longest wavelength",
+        "correct": " an electron",
+        "incorrect": [
+            " a proton",
+         " a neutron"," an α-particle "
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "54-The uncertainty principle states that the error in measurement is due to",
+        "correct": "due to the small size of particles",
+        "incorrect": [
+            "  dual nature of particles",
+         "  due to large size of particles",
+         " due to error in measuring instrument"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "55- If the uncertainty in the velocity of a moving object is 1.0×10–6 ms–1 and the uncertainty in its  positions is 58 m, the mass of this object is approximately equal to that of:",
+        "correct": "electron",
+        "incorrect": [
+            "lithium",
+         "deuterium","helium"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": 
+        "56-The Schrodinger wave equation is........ ",
+        "correct": "Linear",
+        "incorrect": [
+            "Quadratic",
+         " Differential equation"," Derivable"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "57-Classical physics predicted that the number of electrons emitted and their kinetic energy should depend on...........",
+        "correct": "  Both Frequency and wavelength",
+        "incorrect": [
+            " Frequency",
+         " wavelength","Only the intensity of the lightv"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "58-Which of the following can be a wave function?",
+        "correct": "  Sin x",
+        "incorrect": [
+            "  Tan x ",
+         "  Cot x",
+         " Sec x"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "59- Wave function P of a particle is",
+        "correct": "   a complex quantity",
+        "incorrect": [
+            " a real quantity ",
+         " an imaginary quantity",
+         "none of these"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "60- Which of the following quantities is proportional to the probability density at a point?",
+        "correct": " the square of the wave function",
+        "incorrect": [
+            "The wavefunction",
+         " the de Broglie wavelength",
+         "the reciprocal of the de Broglie wavelength"
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "61-the propagated waves would be out of phase, resulting in a net ........decrease in amplitude and  causing",
+        "correct": " destructive",
+        "incorrect": [
+            "wavelength",
+            " constructive interference",
+            "frequency"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "62- The probability density of a particle is",
+        "correct": "Always postive",
+        "incorrect": [
+            " can be negative or positive.",
+            " Negative",
+            "Complex quantity"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "63-The electron is accelerated from rest between two points which has potential of 20V and 40 V  respectively. Associated De-Broglie wavelength is",
+        "correct": "2.75 A",
+        "incorrect": [
+            " 7.5 A ",
+            "0.75 A",
+            "2.75 m"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "64-Which two characteristics are variables in Heisenberg's uncertainty principle",
+        "correct": " position and momentum",
+        "incorrect": [
+            " wavelength and distance",
+            " charge and displacement","atomic radius and frequency"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": "65-If the particle moving in a....... Potential then the solution of the wave equation are described as a stationary states",
+        "correct": " time independent",
+        "incorrect": [
+            " time dependent",
+            " velocity dependent ",
+            "  velocity independent"
+        
+         ]
+    },
+    {
+        "difficulty": "hard",
+        "question": " 66-The value of energy for which schrodinger's steady state equation can be solved is called",
+        "correct": "eigen values",
+        "incorrect": [
+            " eigen vector",
+            " eigen functions ",
+            " operators"
+        
+         ]
+    }
+   
+]
