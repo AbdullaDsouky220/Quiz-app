@@ -10,7 +10,7 @@
         "difficulty": "easy",
         "question": "35) The energy spacing ............ as the box size decreases",
         "correct": "Decrease",
-        "incorrect": ["Increase", ")still the same"]
+        "incorrect": ["Increase", "still the same"]
     },
     {
         "difficulty": "easy",
@@ -46,13 +46,14 @@
         "difficulty": "medium",
         "question": "40)The dual nature of light exhibited by",
         "correct": "diffraction and photoelectric effect",
-        "incorrect": ["diffraction and reflection.", ")refraction and interference photoelectric effect"]
+        "incorrect": ["diffraction and reflection.", "refraction and interference photoelectric effect"]
     },
     {
         "difficulty": "medium",
         "question": "41)Wave picture of light failed to explain.",
         "correct": "the photoelectric effect",
-        "incorrect": ["polarization of light", "diffraction of light", "None of these"]
+        "incorrect": ["polarization of light",
+         "diffraction of light", "None of these"]
     },
     {
         "difficulty": "hard",

@@ -24,12 +24,12 @@ h1 {
 }
 
 .list-group {
-    &:not(.disabled) {
-        .list-group-item:hover {
-            background: #1c6ea4;
-            color: #ffffff;
-        }
-    }
+    // &:not(.disabled) {
+    //     // .list-group-item:hover {
+    //     //     background: #1c6ea4;
+    //     //     color: #ffffff;
+    //     // }
+    // }
 
     .list-group-item {
         cursor: pointer;
